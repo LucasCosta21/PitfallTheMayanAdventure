@@ -1,0 +1,61 @@
+idle_right.png
+size: 1312, 244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sprite
+  rotate: false
+  xy: 0, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 0
+sprite
+  rotate: false
+  xy: 164, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 1
+sprite
+  rotate: false
+  xy: 328, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 2
+sprite
+  rotate: false
+  xy: 492, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 3
+sprite
+  rotate: false
+  xy: 656, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 4
+sprite
+  rotate: false
+  xy: 820, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 5
+sprite
+  rotate: false
+  xy: 984, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 6
+sprite
+  rotate: false
+  xy: 1148, 0
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: 7
