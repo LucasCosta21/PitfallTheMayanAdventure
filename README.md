@@ -1,5 +1,5 @@
 # PitfallTheMayanAdventure
-Remake do jogo Pitfall: The Mayan Adventure.
+Demo do jogo Pitfall: The Mayan Adventure.
 
 Ferramentas usadas: Eclipse IDE, JAVA, LibGDX
 
